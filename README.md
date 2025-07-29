@@ -39,7 +39,7 @@ A modern and responsive product management web app built with the **MERN stack**
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/yourusername/mern-product-store.git
+git clone https://github.com/SiK-T/product-store
 cd mern-product-store
 ```
 
